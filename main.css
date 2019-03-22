@@ -1,0 +1,159 @@
+body {
+  font-family: 'Roboto', sans-serif;
+  font-weight: 300;
+}
+
+header {
+  padding: 20px 0;
+}
+
+header .row,
+footer .row {
+  display: flex;
+  align-items: center;
+}
+
+header h1 {
+  font-weight: 700;
+  margin: 0;
+}
+
+
+header nav {
+  display: flex;
+  justify-content: flex-end;
+}
+
+header p {
+  padding: 0 20px;
+  margin: 0;
+}
+
+.jumbotron {
+  display: flex;
+  align-items: center;
+  background-image: url('https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/The_Acropolis_of_Athens_viewed_from_the_Hill_of_the_Muses_%2814220794964%29.jpg/1200px-The_Acropolis_of_Athens_viewed_from_the_Hill_of_the_Muses_%2814220794964%29.jpg');
+  background-size: cover;
+  color: #ffffff;
+  height: 500px;
+  text-shadow: 0.25px 0.25px 0.25px #000000;
+}
+
+.jumbotron h2 {
+  font-size: 60px;
+  font-weight: 700;
+  margin: 0;
+  color: #fff;
+}
+
+.jumbotron h3 {
+  margin: 0 0 20px;
+  color: #fff;
+}
+
+section .row img {
+  margin: 0 0 30px;
+  width: 100%;
+}
+
+.col-md-6 {
+  margin: 0 0 30px;
+}
+
+.btn.btn-primary {
+  border-radius: 2px;
+  border: 0px;
+  color: #fbd1d5;
+  text-shadow: none;
+  background-color: #ffffff;
+}
+
+.btn.btn-primary:hover {
+  color: #ffffff;
+  background-color: #fbd1d5;
+}
+
+.btn-secondary {
+  background-color: #E8DFE0;
+  color: #ffffff;
+  margin: 0 0 30px;
+}
+
+footer {
+  font-size: 12px;
+  padding: 20px 0;
+}
+
+footer .col-sm-8 {
+  display: flex;
+  justify-content: flex-end;
+}
+
+footer ul {
+  list-style: none;
+}
+
+footer li img {
+  width: 32px;
+  height: 32px;
+}
+
+.topthreeparagraphs {
+  color: blue
+}
+
+#firstfav {
+  font-size: 36px;
+  font-weight: 2000;
+  color: blue;
+  text-align: center;
+
+}
+
+#secondfav{
+  font-size: 16px;
+  font-weight: 500;
+  color: red;
+  text-align: center;
+}
+
+#thirdfav{
+  font-size: 10px;
+  font-weight: 1200;
+  color: green;
+  text-align: center;
+  
+}
+
+#fourthfav{
+  font-size: 19px;
+  font-weight: 1000;
+  color: orange;   
+  text-align: center;
+}
+
+#quotes {
+  font-weight: bold;
+  text-align: center;
+}
+
+#firstquote {
+  color: #204156;
+  font-size: 17px;
+  font-family: "Times new roman"
+}
+#secondquote {
+color: #653289;
+  font-size: 10px;
+  font-family: "Helvetica"
+}
+
+#thirdquote {
+  color: #990350;
+  font-size: 36px;
+  font-family: "Serif"
+}
+
+#myName {
+  font-size:32px;   
+}
