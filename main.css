@@ -1,159 +1,48 @@
 body {
-  font-family: 'Roboto', sans-serif;
-  font-weight: 300;
-}
-
-header {
-  padding: 20px 0;
-}
-
-header .row,
-footer .row {
-  display: flex;
-  align-items: center;
-}
-
-header h1 {
-  font-weight: 700;
-  margin: 0;
+  font-family: 'century gothic'
 }
 
 
-header nav {
-  display: flex;
-  justify-content: flex-end;
-}
-
-header p {
-  padding: 0 20px;
-  margin: 0;
-}
-
-.jumbotron {
-  display: flex;
-  align-items: center;
-  background-image: url('https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/The_Acropolis_of_Athens_viewed_from_the_Hill_of_the_Muses_%2814220794964%29.jpg/1200px-The_Acropolis_of_Athens_viewed_from_the_Hill_of_the_Muses_%2814220794964%29.jpg');
+header{
+  background-image: url('https://i1.wp.com/umcppaphi.files.wordpress.com/2018/12/paphi-background-e1555575651999.jpg?ssl=1');
   background-size: cover;
-  color: #ffffff;
-  height: 500px;
-  text-shadow: 0.25px 0.25px 0.25px #000000;
+  background-position: center;
+  height: 100vh;
 }
 
-.jumbotron h2 {
-  font-size: 60px;
-  font-weight: 700;
-  margin: 0;
-  color: #fff;
-}
-
-.jumbotron h3 {
-  margin: 0 0 20px;
-  color: #fff;
-}
-
-section .row img {
-  margin: 0 0 30px;
-  width: 100%;
-}
-
-.col-md-6 {
-  margin: 0 0 30px;
-}
-
-.btn.btn-primary {
-  border-radius: 2px;
-  border: 0px;
-  color: #fbd1d5;
-  text-shadow: none;
-  background-color: #ffffff;
-}
-
-.btn.btn-primary:hover {
-  color: #ffffff;
-  background-color: #fbd1d5;
-}
-
-.btn-secondary {
-  background-color: #E8DFE0;
-  color: #ffffff;
-  margin: 0 0 30px;
-}
-
-footer {
-  font-size: 12px;
-  padding: 20px 0;
-}
-
-footer .col-sm-8 {
-  display: flex;
-  justify-content: flex-end;
-}
-
-footer ul {
-  list-style: none;
-}
-
-footer li img {
-  width: 32px;
-  height: 32px;
-}
-
-.topthreeparagraphs {
-  color: blue
-}
-
-#firstfav {
-  font-size: 36px;
-  font-weight: 200;
-  color: blue;
-  text-align: center;
-
-}
-
-#secondfav{
-  font-size: 16px;
-  font-weight: 500;
-  color: red;
-  text-align: center;
-}
-
-#thirdfav{
-  font-size: 10px;
-  font-weight: 800;
-  color: green;
-  text-align: center;
+ul{
+  list-style-type: none;
+  float: right;
+  margin-top: 25px;
   
 }
 
-#fourthfav{
-  font-size: 19px;
-  font-weight: 700;
-  color: orange;   
-  text-align: center;
+ul li {
+  display: inline-block;
 }
 
-#quotes {
-  font-weight: bold;
-  text-align: center;
+ul li a {
+  text-decoration: none;
+  color: #fff;
+  padding: 5px 20px;
+  border: 1px solid transparent;
+  transition: 0.5s ease;
 }
 
-#firstquote {
-  color: #204156;
-  font-size: 17px;
-  font-family: "Times new roman"
-}
-#secondquote {
-color: #653289;
-  font-size: 10px;
-  font-family: "Helvetica"
+ul li a:hover {
+background-color: #fff;
+  color: #000;
 }
 
-#thirdquote {
-  color: #990350;
-  font-size: 36px;
-  font-family: "Serif"
+.container {
+  width: 80%;
+  margin: 0 auto;
+  
+    
 }
 
-#myName {
-  font-size:32px;   
+.logo img {
+  float: left;
+  width: 50px;
+  height: auto;
 }
