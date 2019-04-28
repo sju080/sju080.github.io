@@ -38,11 +38,7 @@ background-color: #fff;
     
 }
 
-.logo img {
-  float: left;
-  width: 80px;
-  height: auto;
-}
+
 .title {
   position: absolute;
   top: 50%;
@@ -86,4 +82,14 @@ section {
   background-size: cover;
   background-position: center;
   height: 100vh;
+}
+
+nav {
+  float: right;
+}
+
+.logo img {
+  float: left;
+  width: 80px;
+  height: auto;
 }
