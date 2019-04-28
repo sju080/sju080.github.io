@@ -2,7 +2,9 @@ body {
   font-family: 'century gothic'
 }
 
-
+header{
+  padding: 20px 0;
+}
 
 header ul{
   list-style-type: none;
@@ -57,9 +59,4 @@ footer li img {
   padding-left: 140px;
   width: 80px;
   height: auto;
-}
-
-section container {
-  background:url(https://umcppaphi.files.wordpress.com/2018/12/paphi-background-e1555575651999.jpg);
-  align-content: center;
 }
