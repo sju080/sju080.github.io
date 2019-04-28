@@ -4,10 +4,7 @@ body {
 
 
 header{
-  background-image: url('https://i1.wp.com/umcppaphi.files.wordpress.com/2018/12/paphi-background-e1555575651999.jpg?ssl=1');
-  background-size: cover;
-  background-position: center;
-  height: 100vh;
+ 
 }
 
 ul{
@@ -82,4 +79,11 @@ footer ul {
 footer li img {
   width: 32px;
   height: 32px;
+}
+
+section {
+  background-image: url('https://i1.wp.com/umcppaphi.files.wordpress.com/2018/12/paphi-background-e1555575651999.jpg?ssl=1');
+  background-size: cover;
+  background-position: center;
+  height: 100vh;
 }
