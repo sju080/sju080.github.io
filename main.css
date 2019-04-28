@@ -39,20 +39,7 @@ background-color: #fff;
 }
 
 
-.title {
-  position: absolute;
-  top: 50%;
-  left: 50%;
-  transform:translate (-50%, -50%);
-}
 
-.title h1 {
-  color: #ffffff;
-  font-size:100px;
-  font-family: 'century gothic';
-  text-shadow: 5px 5px 4px red;
-  text-align: center;
-}
 
 .row {
   float: right;
@@ -77,12 +64,7 @@ footer li img {
   height: 32px;
 }
 
-section {
-  background-image: url('https://i1.wp.com/umcppaphi.files.wordpress.com/2018/12/paphi-background-e1555575651999.jpg?ssl=1');
-  background-size: cover;
-  background-position: center;
-  height: 100vh;
-}
+
 
 nav {
   float: right;
