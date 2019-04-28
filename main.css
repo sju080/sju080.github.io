@@ -60,3 +60,7 @@ background-color: #fff;
   text-shadow: 5px 5px 4px red;
   text-align: center;
 }
+
+.row {
+  float: right;
+}
