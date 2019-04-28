@@ -21,7 +21,7 @@ header ul li {
 
 header ul li a {
   text-decoration: none;
-  color: black;
+  color: #fff;
   padding: 5px 20px;
   border: 1px solid transparent;
   transition: 0.5s ease;
