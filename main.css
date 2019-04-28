@@ -21,6 +21,12 @@ header ul li {
   display: inline-block;
 }
 
+header ul li h1 {
+  font-size: 30px;
+  float: none;
+  
+}
+
 header ul li a {
   text-decoration: none;
   color: #fff;
@@ -55,9 +61,6 @@ footer li img {
   width: 32px;
   height: 32px;
 }
-
-
-
 
 .logo img {
   float: left;
