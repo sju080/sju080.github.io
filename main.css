@@ -54,11 +54,12 @@ footer li img {
 
 .logo img {
   float: left;
-  padding-right: 140px;
+  padding-left: 140px;
   width: 80px;
   height: auto;
 }
 
 section container {
   background:url(https://umcppaphi.files.wordpress.com/2018/12/paphi-background-e1555575651999.jpg);
+  align-content: center;
 }
