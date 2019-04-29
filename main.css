@@ -22,10 +22,11 @@ header ul li {
 }
 
 header ul li h1 {
-  font-size: 50px;
+  font-size: 100px;
   float: none;
   color: #fff;
-  
+  text-shadow: 5px 5px 3px #8C001A;
+  font-weight: bold;
 }
 
 header ul li a {
@@ -65,7 +66,7 @@ footer li img {
 
 .logo img {
   float: left;
-  width: 85px;
+  width: 300px;
   height: auto;
 }
 
