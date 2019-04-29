@@ -27,6 +27,7 @@ header ul li h1 {
   color: #fff;
   text-shadow: 5px 5px 3px #8C001A;
   font-weight: bold;
+  padding-right: 20px;
 }
 
 header ul li a {
@@ -66,7 +67,7 @@ footer li img {
 
 .logo img {
   float: left;
-  width: 300px;
+  width: 150px;
   height: auto;
 }
 
