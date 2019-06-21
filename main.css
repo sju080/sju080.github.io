@@ -5,7 +5,7 @@ body {
 }
 
 header{
-  background-image: url(https://umcppaphi.files.wordpress.com/2018/12/paphi-background-e1555575651999.jpg);
+  background-image:linear-gradient(rgba (0,0,0,0.5) url(https://umcppaphi.files.wordpress.com/2018/12/paphi-background-e1555575651999.jpg);
   height: 100vh;
   background-size: cover;
   background-position: center;
